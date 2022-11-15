@@ -62,7 +62,7 @@ namespace Text_Based_RPG_Map
             Console.WriteLine("Display Map: With x3 Scaling.");
             Console.WriteLine();
 
-            DisplayMap(11000);
+            DisplayMap(3);
 
             Console.ReadKey(true);
             Console.Clear();
